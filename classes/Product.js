@@ -1,4 +1,4 @@
-class Product{
+class Product {
     constructor(name, price, description, inStock) {
         this.name = name
         this.price = price
